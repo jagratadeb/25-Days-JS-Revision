@@ -16,7 +16,7 @@ Use the table below to track progress. Mark each day as ✅ when complete and in
 |-----:|---------------|:------:|
 | 1 | Console & basic statements | ✅ linked: [`Day 1/console.js`](Day%201/console.js) |
 | 2 | GitHub Upload Code | ✅ linked: [`Day 2/githubUpload.js`](Day%202/githubUpload.js) |
-| 3 |  |  |
+| 3 | Variables and Scope | ✅ linked: [`Day 3/variables.js`](Day%203/variables.js) |
 | 4 |  |  |
 | 5 |  |  |
 | 6 |  |  |
