@@ -19,7 +19,7 @@ Use the table below to track progress. Mark each day as ✅ when complete and in
 | 3 | Variables and Scope | ✅ linked: [`Day 3/variables.js`](Day%203/variables.js) |
 | 4 | Datatypes and ECMA Script | ✅ linked: [`Day 4/datatypes.js`](Day%204/datatypes.js) [`Day 4/ecmascript.js`](Day%204/ecmascript.js) |
 | 5 | Datatype Conversion | ✅ linked: [`Day 5/datatypeConversion.js`](Day%205/datatypeConversion.js) |
-| 6 |  |  |
+| 6 | Confusion in type conversion | ✅ linked: [`Day 6/typeConversion.js`](Day%206/typeConversion.js) |
 | 7 |  |  |
 | 8 |  |  |
 | 9 |  |  |
