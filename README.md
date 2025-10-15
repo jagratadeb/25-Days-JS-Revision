@@ -20,7 +20,7 @@ Use the table below to track progress. Mark each day as ✅ when complete and in
 | 4 | Datatypes and ECMA Script | ✅ linked: [`Day 4/datatypes.js`](Day%204/datatypes.js) [`Day 4/ecmascript.js`](Day%204/ecmascript.js) |
 | 5 | Datatype Conversion | ✅ linked: [`Day 5/datatypeConversion.js`](Day%205/datatypeConversion.js) |
 | 6 | Confusion in type conversion | ✅ linked: [`Day 6/typeConversion.js`](Day%206/typeConversion.js) |
-| 7 |  |  |
+| 7 | Datatype Comparison | ✅ linked: [`Day 7/datatypeComparison.js`](Day%207/datatypeComparison.js) |
 | 8 |  |  |
 | 9 |  |  |
 | 10 |  |  |
