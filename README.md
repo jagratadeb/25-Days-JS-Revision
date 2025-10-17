@@ -22,7 +22,7 @@ Use the table below to track progress. Mark each day as ✅ when complete and in
 | 6 | Confusion in type conversion | ✅ linked: [`Day 6/typeConversion.js`](Day%206/typeConversion.js) |
 | 7 | Datatype Comparison | ✅ linked: [`Day 7/datatypeComparison.js`](Day%207/datatypeComparison.js) |
 | 8 |  Datatype Summary|  | ✅ linked: [`Day 8/datatypeSummary.js`](Day%208/datatypeSummary.js) |
-| 9 |  |  |
+| 9 | Memory Allocation |  | ✅ linked: [`Day 9/memoryAllocation.js`](Day%209/memoryAllocation.js) |
 | 10 |  |  |
 | 11 |  |  |
 | 12 |  |  |
