@@ -24,7 +24,7 @@ Use the table below to track progress. Mark each day as ✅ when complete and in
 | 8 |  Datatype Summary| ✅ linked: [`Day 8/datatypeSummary.js`](Day%208/datatypeSummary.js) |
 | 9 | Memory Allocation | ✅ linked: [`Day 9/memoryAllocation.js`](Day%209/memoryAllocation.js) |  
 | 10 | Strings | ✅ linked: [`Day 10/strings.js`](Day%2010/strings.js) |
-| 11 |  |  |
+| 11 |  Number & Math | ✅ linked: [`Day 11/numberMath.js`](Day%2011/numberMath.js) |
 | 12 |  |  |
 | 13 |  |  |
 | 14 |  |  |
