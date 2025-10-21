@@ -25,7 +25,7 @@ Use the table below to track progress. Mark each day as ✅ when complete and in
 | 9 | Memory Allocation | ✅ linked: [`Day 9/memoryAllocation.js`](Day%209/memoryAllocation.js) |  
 | 10 | Strings | ✅ linked: [`Day 10/strings.js`](Day%2010/strings.js) |
 | 11 |  Number & Math | ✅ linked: [`Day 11/numberMath.js`](Day%2011/numberMath.js) |
-| 12 |  |  |
+| 12 | Date and Time | ✅ linked: [`Day 12/dateTime.js`](Day%2012/dateTime.js) |
 | 13 |  |  |
 | 14 |  |  |
 | 15 |  |  |
