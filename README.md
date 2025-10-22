@@ -26,8 +26,8 @@ Use the table below to track progress. Mark each day as ✅ when complete and in
 | 10 | Strings | ✅ linked: [`Day 10/strings.js`](Day%2010/strings.js) |
 | 11 |  Number & Math | ✅ linked: [`Day 11/numberMath.js`](Day%2011/numberMath.js) |
 | 12 | Date and Time | ✅ linked: [`Day 12/dateTime.js`](Day%2012/dateTime.js) |
-| 13 |  |  |
-| 14 |  |  |
+| 13 | Array Part 1 | ✅ linked: [`Day 13/array.js`](Day%2013/array.js) |
+| 14 | Array Part 2 | ✅ linked: [`Day 14/array2.js`](Day%2014/array2.js) |
 | 15 |  |  |
 | 16 |  |  |
 | 17 |  |  |
