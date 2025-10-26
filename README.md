@@ -28,9 +28,9 @@ Use the table below to track progress. Mark each day as ✅ when complete and in
 | 12 | Date and Time | ✅ linked: [`Day 12/dateTime.js`](Day%2012/dateTime.js) |
 | 13 | Array Part 1 | ✅ linked: [`Day 13/array.js`](Day%2013/array.js) |
 | 14 | Array Part 2 | ✅ linked: [`Day 14/array2.js`](Day%2014/array2.js) |
-| 15 | Objects | ✅ linked: [`Day 15/objects.js`](Day%2015/objects.js) |
-| 16 |  |  |
-| 17 |  |  |
+| 15 | Objects Part 1| ✅ linked: [`Day 15/objects.js`](Day%2015/objects.js) |
+| 16 | Objects Part 2 |✅ linked: [`Day 16/object.js`](Day%2016/object.js) |
+| 17 | JSON API & Destructuring | ✅ linked: [`Day 17/deStructObject.js`](Day%2017/deStructObject.js) |
 | 18 |  |  |
 | 19 |  |  |
 | 20 |  |  |
