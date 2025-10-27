@@ -31,7 +31,7 @@ Use the table below to track progress. Mark each day as ✅ when complete and in
 | 15 | Objects Part 1| ✅ linked: [`Day 15/objects.js`](Day%2015/objects.js) |
 | 16 | Objects Part 2 |✅ linked: [`Day 16/object.js`](Day%2016/object.js) |
 | 17 | JSON API & Destructuring | ✅ linked: [`Day 17/deStructObject.js`](Day%2017/deStructObject.js) |
-| 18 |  |  |
+| 18 |  Functions and Parameters | ✅ linked: [`Day 18/function.js`](Day%2018/function.js) |
 | 19 |  |  |
 | 20 |  |  |
 | 21 |  |  |
