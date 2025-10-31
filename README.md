@@ -35,7 +35,7 @@ Use the table below to track progress. Mark each day as ✅ when complete and in
 | 19 | Functions with objects | ✅ linked: [`Day 19/functions.js`](Day%2019/functions.js) |
 | 20 | Block & Variable Scope | ✅ linked: [`/Day 20/globallocalScope.js`](Day%2020/globallocalScope.js) |
 | 21 | Scope Level & Mini Hoisting | ✅ linked: [`/Day 21/scopeHoisting.js`](Day%2021/scopeHoisting.js) |
-| 22 |  |  |
+| 22 | This & Arrow Functions | ✅ linked: [`/Day 22/thisArrow.js`](Day%2022/thisArrow.js) |
 | 23 |  |  |
 | 24 |  |  |
 | 25 |  |  |
