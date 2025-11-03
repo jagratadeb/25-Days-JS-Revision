@@ -36,7 +36,7 @@ Use the table below to track progress. Mark each day as ✅ when complete and in
 | 20 | Block & Variable Scope | ✅ linked: [`/Day 20/globallocalScope.js`](Day%2020/globallocalScope.js) |
 | 21 | Scope Level & Mini Hoisting | ✅ linked: [`/Day 21/scopeHoisting.js`](Day%2021/scopeHoisting.js) |
 | 22 | This & Arrow Functions | ✅ linked: [`/Day 22/thisArrow.js`](Day%2022/thisArrow.js) |
-| 23 |  |  |
-| 24 |  |  |
-| 25 |  |  |
+| 23 | IIFE | ✅ linked: [`/Day 23/iife.js`](Day%2023/iife.js) |
+| 24 | Call Stack | ✅ linked: [`/Day 24/callStack.md`](Day%2024/callStack.md) |
+| 25 | Control Flow | ✅ linked: [`/Day 25/controlFlow.js`](Day%2025/controlFlow.js) |
 
